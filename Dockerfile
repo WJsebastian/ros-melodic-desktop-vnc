@@ -1,4 +1,4 @@
-FROM dorowu/ubuntu-desktop-lxde-vnc:focal
+FROM dorowu/ubuntu-desktop-lxde-vnc:bionic
 LABEL maintainer="WJSebastian <wj_sebastian@outlook.com>"
 
 RUN sudo sh -c \
